@@ -50,3 +50,15 @@ This file contains the notable changes made to the Exam Practice project.
 ##### This is part of some of the programs that I have written so far when I joined ALX.
 ##### I believe automating some of the things we do everyday is essential for growth. Hence, why I am sharing it.
 
+## Authors
+<details>
+    <summary>Olalekan Onifade</summary>
+    <ul>
+    <li><a href="https://www.github.com/locustbea">Github</a></li>
+    <li><a href="https://www.twitter.com/locustbea">Twitter</a></li>
+    <li><a href="mailto:locustbea@yahoo.com">e-mail</a></li>
+    <li><a href="https://www.facebook.com/BABAGBA">Facebook</a></li>
+    <li><a href="https://www.instagram.com/i_am_fabulurs">Instagram</a></li>
+    <li><a href="https://www.linkedin.com/in/locustbea">Linkedin</a></li>
+    </ul>
+</details>
